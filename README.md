@@ -7,6 +7,6 @@ A real-time AI-powered web application that detects phishing messages using Mach
 * **Tech Stack**: Python, Flask, Scikit-Learn, and Render for deployment.
 
 ## 🚀 Local Setup
-1. Clone the repo: `git clone https://github.com/Nithyasri-Ramesh/Phishing-Detector.git`
+1. Clone the repo: `git clone https://github.com/bhavanimuruugan-30/Phishing-Detector.git`
 2. Install dependencies: `pip install flask joblib scikit-learn`
 3. Run the app: `python app.py`
